@@ -1,0 +1,3313 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-04-18T16:09:14.063195+00:00",
+  "snapshot_date": "2026-04-01",
+  "region": {
+    "label": "Downtown Toronto (10 km around M5V 2T6)",
+    "postal": "M5V 2T6",
+    "city": "Toronto",
+    "province": "ON",
+    "lat": 43.645,
+    "lng": -79.394,
+    "radius_km": 10.0
+  },
+  "retailers": [
+    {
+      "slug": "foodbasics",
+      "name": "Food Basics"
+    },
+    {
+      "slug": "loblaws",
+      "name": "Loblaws"
+    },
+    {
+      "slug": "longos",
+      "name": "Longo's"
+    },
+    {
+      "slug": "metro",
+      "name": "Metro"
+    },
+    {
+      "slug": "nofrills",
+      "name": "No Frills"
+    },
+    {
+      "slug": "realcanadiansuperstore",
+      "name": "Real Canadian Superstore"
+    },
+    {
+      "slug": "yourindependentgrocer",
+      "name": "Your Independent Grocer"
+    }
+  ],
+  "stores": [
+    {
+      "id": "0559ac72",
+      "slug": "loblaws",
+      "name": "Loblaws Toronto Lakeshore (Loblaws)",
+      "address": "15A Bathurst Street Unit 3",
+      "postal": "M5V 0R9",
+      "city": "Toronto",
+      "province": "ON",
+      "lat": 43.636907,
+      "lng": -79.399312,
+      "distance_km": 0.996,
+      "is_virtual": false
+    },
+    {
+      "id": "06293472",
+      "slug": "foodbasics",
+      "name": "Food Basics - Toronto",
+      "address": "",
+      "postal": "M4X 1G2",
+      "city": "",
+      "province": "  ",
+      "lat": 43.6679,
+      "lng": -79.3719,
+      "distance_km": 3.106,
+      "is_virtual": false
+    },
+    {
+      "id": "09710dff",
+      "slug": "foodbasics",
+      "name": "Food Basics — Toronto (Flipp)",
+      "address": null,
+      "postal": "M6H 2T4",
+      "city": "Toronto",
+      "province": "ON",
+      "lat": 43.690633,
+      "lng": -79.349716,
+      "distance_km": 6.2,
+      "is_virtual": false
+    },
+    {
+      "id": "3f9e16dc",
+      "slug": "yourindependentgrocer",
+      "name": "Rob & Darlene’s Your Independent Grocer Etobicoke (Your Independent Grocer)",
+      "address": "2399 Lake Shore Blvd W",
+      "postal": "M8V 1C5",
+      "city": "Etobicoke",
+      "province": "ON",
+      "lat": 43.61463,
+      "lng": -79.488443,
+      "distance_km": 8.318,
+      "is_virtual": false
+    },
+    {
+      "id": "616bdb29",
+      "slug": "longos",
+      "name": "Longo's Hudson's Bay Centre",
+      "address": "100 Bloor Street East",
+      "postal": "M4W 1A7",
+      "city": "Toronto",
+      "province": "ON",
+      "lat": 43.67108,
+      "lng": -79.38447,
+      "distance_km": 3.0,
+      "is_virtual": false
+    },
+    {
+      "id": "63b1e4a5",
+      "slug": "nofrills",
+      "name": "No Frills — Toronto (Flipp)",
+      "address": "449 Parliament St",
+      "postal": "M4C 1T3",
+      "city": "Toronto",
+      "province": "ON",
+      "lat": 43.663509,
+      "lng": -79.367075,
+      "distance_km": 2.988,
+      "is_virtual": false
+    },
+    {
+      "id": "7ee2f71b",
+      "slug": "metro",
+      "name": "Metro Front Street Market",
+      "address": "",
+      "postal": "",
+      "city": "",
+      "province": "  ",
+      "lat": 43.64917,
+      "lng": -79.37228,
+      "distance_km": 1.808,
+      "is_virtual": false
+    },
+    {
+      "id": "969bbd25",
+      "slug": "nofrills",
+      "name": "Bo's NO FRILLS Toronto Richmond (No Frills)",
+      "address": "261 Richmond St W",
+      "postal": "M5V 3M6",
+      "city": "Toronto",
+      "province": "ON",
+      "lat": 43.648854,
+      "lng": -79.391514,
+      "distance_km": 0.473,
+      "is_virtual": false
+    },
+    {
+      "id": "e0021efa",
+      "slug": "realcanadiansuperstore",
+      "name": "Real Canadian Superstore Don Mills Road (Real Canadian Superstore)",
+      "address": "825 Don Mills Rd",
+      "postal": "M3C 1V4",
+      "city": "Toronto",
+      "province": "ON",
+      "lat": 43.722704,
+      "lng": -79.337508,
+      "distance_km": 9.762,
+      "is_virtual": false
+    }
+  ],
+  "display_stores": [
+    {
+      "id": "969bbd25",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Bo's NO FRILLS Toronto Richmond (No Frills)",
+      "address": "261 Richmond St W",
+      "postal": "M5V 3M6",
+      "lat": 43.648854,
+      "lng": -79.391514,
+      "distance_km": 0.473,
+      "has_prices": true
+    },
+    {
+      "id": "3ca301df",
+      "retailer_slug": "loblaws",
+      "retailer_name": "Loblaws",
+      "store_name": "Loblaws Queen Street (Loblaws)",
+      "address": "585 Queen St W",
+      "postal": "M5V 2B7",
+      "lat": 43.647355,
+      "lng": -79.401696,
+      "distance_km": 0.672,
+      "has_prices": false
+    },
+    {
+      "id": "0559ac72",
+      "retailer_slug": "loblaws",
+      "retailer_name": "Loblaws",
+      "store_name": "Loblaws Toronto Lakeshore (Loblaws)",
+      "address": "15A Bathurst Street Unit 3",
+      "postal": "M5V 0R9",
+      "lat": 43.636907,
+      "lng": -79.399312,
+      "distance_km": 0.996,
+      "has_prices": true
+    },
+    {
+      "id": "986b8818",
+      "retailer_slug": "longos",
+      "retailer_name": "Longo's",
+      "store_name": "Longos's First Canadian Place",
+      "address": "100 King St W",
+      "postal": "M5X 1A9",
+      "lat": 43.64917,
+      "lng": -79.38172,
+      "distance_km": 1.091,
+      "has_prices": false
+    },
+    {
+      "id": "ba4705ac",
+      "retailer_slug": "longos",
+      "retailer_name": "Longo's",
+      "store_name": "Longo's Maple Leaf Square",
+      "address": "15 York Street",
+      "postal": "M5J 0A3",
+      "lat": 43.642454,
+      "lng": -79.380911,
+      "distance_km": 1.091,
+      "has_prices": false
+    },
+    {
+      "id": "0084387b",
+      "retailer_slug": "longos",
+      "retailer_name": "Longo's",
+      "store_name": "Longo's Brookfield Place",
+      "address": "181 Bay St",
+      "postal": "M5J 2T3",
+      "lat": 43.647208,
+      "lng": -79.379381,
+      "distance_km": 1.202,
+      "has_prices": false
+    },
+    {
+      "id": "daed729c",
+      "retailer_slug": "longos",
+      "retailer_name": "Longo's",
+      "store_name": "Longos Elizabeth",
+      "address": "111 Elizabeth Street",
+      "postal": "M5G 1P7",
+      "lat": 43.65552,
+      "lng": -79.38497,
+      "distance_km": 1.377,
+      "has_prices": false
+    },
+    {
+      "id": "54147ec1",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Nick's NOFRILLS Toronto Esplanade (No Frills)",
+      "address": "75 The Esplanade St",
+      "postal": "M5E 1Z4",
+      "lat": 43.646925,
+      "lng": -79.373319,
+      "distance_km": 1.678,
+      "has_prices": false
+    },
+    {
+      "id": "1a4bc6ee",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Jordan's NOFRILLS Toronto King St (No Frills)",
+      "address": "1022 King St W",
+      "postal": "M6K 0C1",
+      "lat": 43.641721,
+      "lng": -79.415565,
+      "distance_km": 1.773,
+      "has_prices": false
+    },
+    {
+      "id": "7ee2f71b",
+      "retailer_slug": "metro",
+      "retailer_name": "Metro",
+      "store_name": "Metro Front Street Market",
+      "address": "",
+      "postal": "",
+      "lat": 43.64917,
+      "lng": -79.37228,
+      "distance_km": 1.808,
+      "has_prices": true
+    },
+    {
+      "id": "78ed94eb",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Felice's NOFRILLS Toronto Shuter (No Frills)",
+      "address": "75 Shuter St",
+      "postal": "M5B 0E8",
+      "lat": 43.654806,
+      "lng": -79.375365,
+      "distance_km": 1.854,
+      "has_prices": false
+    },
+    {
+      "id": "9ba495f9",
+      "retailer_slug": "loblaws",
+      "retailer_name": "Loblaws",
+      "store_name": "Loblaws Lower Jarvis Street (Loblaws)",
+      "address": "10 Lower Jarvis St",
+      "postal": "M5E 1Z2",
+      "lat": 43.644586,
+      "lng": -79.370042,
+      "distance_km": 1.928,
+      "has_prices": false
+    },
+    {
+      "id": "1ef3c3ac",
+      "retailer_slug": "metro",
+      "retailer_name": "Metro",
+      "store_name": "Metro Gould Street",
+      "address": "",
+      "postal": "",
+      "lat": 43.65807,
+      "lng": -79.37706,
+      "distance_km": 1.992,
+      "has_prices": false
+    },
+    {
+      "id": "fbf3e427",
+      "retailer_slug": "metro",
+      "retailer_name": "Metro",
+      "store_name": "Metro Liberty Village",
+      "address": "",
+      "postal": "",
+      "lat": 43.63995,
+      "lng": -79.41796,
+      "distance_km": 2.008,
+      "has_prices": false
+    },
+    {
+      "id": "78d65a04",
+      "retailer_slug": "metro",
+      "retailer_name": "Metro",
+      "store_name": "Metro College Park",
+      "address": "",
+      "postal": "",
+      "lat": 43.66136,
+      "lng": -79.38309,
+      "distance_km": 2.02,
+      "has_prices": false
+    },
+    {
+      "id": "0e7f9a72",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Jamie & Kelly's No Frills Toronto Liberty Village (No Frills)",
+      "address": "42 Hanna Ave",
+      "postal": "M6K 1X1",
+      "lat": 43.638992,
+      "lng": -79.420034,
+      "distance_km": 2.199,
+      "has_prices": false
+    },
+    {
+      "id": "fbb0655f",
+      "retailer_slug": "loblaws",
+      "retailer_name": "Loblaws",
+      "store_name": "Loblaws Carlton Street (Loblaws)",
+      "address": "60 Carlton St",
+      "postal": "M5B 1L1",
+      "lat": 43.661963,
+      "lng": -79.3796,
+      "distance_km": 2.214,
+      "has_prices": false
+    },
+    {
+      "id": "2256e92e",
+      "retailer_slug": "metro",
+      "retailer_name": "Metro",
+      "store_name": "Metro College & Shaw",
+      "address": "",
+      "postal": "",
+      "lat": 43.65493,
+      "lng": -79.41962,
+      "distance_km": 2.338,
+      "has_prices": false
+    },
+    {
+      "id": "c43f7957",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Rocco's NOFRILLS Toronto (No Frills)",
+      "address": "200 Front St E",
+      "postal": "M5A 4T9",
+      "lat": 43.651418,
+      "lng": -79.365947,
+      "distance_km": 2.367,
+      "has_prices": false
+    },
+    {
+      "id": "108fb418",
+      "retailer_slug": "longos",
+      "retailer_name": "Longo's",
+      "store_name": "Longo's Liberty Village",
+      "address": "1100 King St West",
+      "postal": "M6K 1E6",
+      "lat": 43.64008,
+      "lng": -79.42332,
+      "distance_km": 2.422,
+      "has_prices": false
+    },
+    {
+      "id": "222a4b07",
+      "retailer_slug": "metro",
+      "retailer_name": "Metro",
+      "store_name": "Metro Bloor & Spadina",
+      "address": "",
+      "postal": "",
+      "lat": 43.66615,
+      "lng": -79.4051,
+      "distance_km": 2.516,
+      "has_prices": false
+    },
+    {
+      "id": "d9f39e27",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Pj's NOFRILLS Toronto College (No Frills)",
+      "address": "899 College St W",
+      "postal": "M6H 1A1",
+      "lat": 43.653801,
+      "lng": -79.424823,
+      "distance_km": 2.666,
+      "has_prices": false
+    },
+    {
+      "id": "4a1ef3d8",
+      "retailer_slug": "metro",
+      "retailer_name": "Metro",
+      "store_name": "Metro West Queen West",
+      "address": "",
+      "postal": "",
+      "lat": 43.6427,
+      "lng": -79.4277,
+      "distance_km": 2.724,
+      "has_prices": false
+    },
+    {
+      "id": "63b1e4a5",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "No Frills — Toronto (Flipp)",
+      "address": "449 Parliament St",
+      "postal": "M4C 1T3",
+      "lat": 43.663509,
+      "lng": -79.367075,
+      "distance_km": 2.988,
+      "has_prices": true
+    },
+    {
+      "id": "ea463398",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Ali's NOFRILLS Toronto (No Frills)",
+      "address": "449 Parliament St",
+      "postal": "M5A 3A3",
+      "lat": 43.663509,
+      "lng": -79.367075,
+      "distance_km": 2.988,
+      "has_prices": false
+    },
+    {
+      "id": "616bdb29",
+      "retailer_slug": "longos",
+      "retailer_name": "Longo's",
+      "store_name": "Longo's Hudson's Bay Centre",
+      "address": "100 Bloor Street East",
+      "postal": "M4W 1A7",
+      "lat": 43.67108,
+      "lng": -79.38447,
+      "distance_km": 3.0,
+      "has_prices": true
+    },
+    {
+      "id": "06293472",
+      "retailer_slug": "foodbasics",
+      "retailer_name": "Food Basics",
+      "store_name": "Food Basics - Toronto",
+      "address": "",
+      "postal": "M4X 1G2",
+      "lat": 43.6679,
+      "lng": -79.3719,
+      "distance_km": 3.106,
+      "has_prices": true
+    },
+    {
+      "id": "1673bfdb",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Damiano's NOFRILLS Toronto (No Frills)",
+      "address": "345 Bloor St E Unit 1A",
+      "postal": "M4W 3J6",
+      "lat": 43.671802,
+      "lng": -79.378706,
+      "distance_km": 3.224,
+      "has_prices": false
+    },
+    {
+      "id": "c135c292",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Anthony's NOFRILLS Toronto (No Frills)",
+      "address": "1435 King St W",
+      "postal": "M6K 1H9",
+      "lat": 43.636661,
+      "lng": -79.436544,
+      "distance_km": 3.547,
+      "has_prices": false
+    },
+    {
+      "id": "60d8eda9",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Andrew & Shelley's NOFRILLS Toronto (No Frills)",
+      "address": "900 Dufferin St",
+      "postal": "M6H 4A9",
+      "lat": 43.656224,
+      "lng": -79.435577,
+      "distance_km": 3.57,
+      "has_prices": false
+    },
+    {
+      "id": "b76fbee7",
+      "retailer_slug": "loblaws",
+      "retailer_name": "Loblaws",
+      "store_name": "Loblaws Dupont Street (Loblaws)",
+      "address": "650 Dupont St",
+      "postal": "M6G 4B1",
+      "lat": 43.672178,
+      "lng": -79.420629,
+      "distance_km": 3.704,
+      "has_prices": false
+    },
+    {
+      "id": "90d95049",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Mike's NOFRILLS Toronto (No Frills)",
+      "address": "222 Lansdowne Ave",
+      "postal": "M6K 3C6",
+      "lat": 43.649696,
+      "lng": -79.440325,
+      "distance_km": 3.764,
+      "has_prices": false
+    },
+    {
+      "id": "7b714cfc",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "George's NOFRILLS Toronto Broadview (No Frills)",
+      "address": "720 Broadview Ave",
+      "postal": "M4K 2P1",
+      "lat": 43.675178,
+      "lng": -79.358436,
+      "distance_km": 4.41,
+      "has_prices": false
+    },
+    {
+      "id": "f54cc5dc",
+      "retailer_slug": "loblaws",
+      "retailer_name": "Loblaws",
+      "store_name": "Loblaws Toronto Dundas W (Loblaws)",
+      "address": "2280 Dundas St W",
+      "postal": "M6R 1X3",
+      "lat": 43.65562,
+      "lng": -79.4498,
+      "distance_km": 4.642,
+      "has_prices": false
+    },
+    {
+      "id": "5f93cef4",
+      "retailer_slug": "longos",
+      "retailer_name": "Longo's",
+      "store_name": "Longo's Imperial Plaza",
+      "address": "111 St Clair Ave W",
+      "postal": "M4V 1N5",
+      "lat": 43.686736,
+      "lng": -79.399494,
+      "distance_km": 4.662,
+      "has_prices": false
+    },
+    {
+      "id": "9622d837",
+      "retailer_slug": "loblaws",
+      "retailer_name": "Loblaws",
+      "store_name": "Loblaws (PC Express)",
+      "address": null,
+      "postal": "M5V 2T6",
+      "lat": 43.683855,
+      "lng": -79.415837,
+      "distance_km": 4.664,
+      "has_prices": false
+    },
+    {
+      "id": "f6935b1d",
+      "retailer_slug": "loblaws",
+      "retailer_name": "Loblaws",
+      "store_name": "Loblaw Toronto St. Clair W (Loblaws)",
+      "address": "396 St Clair Ave W",
+      "postal": "M5P 3N3",
+      "lat": 43.684147,
+      "lng": -79.415339,
+      "distance_km": 4.679,
+      "has_prices": false
+    },
+    {
+      "id": "b5c6137a",
+      "retailer_slug": "loblaws",
+      "retailer_name": "Loblaws",
+      "store_name": "Loblaw Toronto St. Clair E (Loblaws)",
+      "address": "12 St Clair Ave E",
+      "postal": "M4T 1L7",
+      "lat": 43.68842,
+      "lng": -79.39351,
+      "distance_km": 4.828,
+      "has_prices": false
+    },
+    {
+      "id": "d2bdcda3",
+      "retailer_slug": "foodbasics",
+      "retailer_name": "Food Basics",
+      "store_name": "Food Basics - Toronto",
+      "address": "",
+      "postal": "M6H 0C3",
+      "lat": 43.667083,
+      "lng": -79.447765,
+      "distance_km": 4.974,
+      "has_prices": false
+    },
+    {
+      "id": "7e95396a",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Luciano's NOFRILLS Toronto (No Frills)",
+      "address": "243 Alberta Ave",
+      "postal": "M6C 3X4",
+      "lat": 43.681033,
+      "lng": -79.43373,
+      "distance_km": 5.125,
+      "has_prices": false
+    },
+    {
+      "id": "4a7f69f0",
+      "retailer_slug": "foodbasics",
+      "retailer_name": "Food Basics",
+      "store_name": "Food Basics - Toronto",
+      "address": "",
+      "postal": "M4M 1Z4",
+      "lat": 43.6689,
+      "lng": -79.3395,
+      "distance_km": 5.127,
+      "has_prices": false
+    },
+    {
+      "id": "e7854a0c",
+      "retailer_slug": "loblaws",
+      "retailer_name": "Loblaws",
+      "store_name": "Loblaws Leslie Street (Loblaws)",
+      "address": "17 Leslie St",
+      "postal": "M4M 3H9",
+      "lat": 43.66087,
+      "lng": -79.328424,
+      "distance_km": 5.563,
+      "has_prices": false
+    },
+    {
+      "id": "a630bb55",
+      "retailer_slug": "loblaws",
+      "retailer_name": "Loblaws",
+      "store_name": "Loblaws Moore Avenue (Loblaws)",
+      "address": "301 Moore Ave",
+      "postal": "M4G 1E1",
+      "lat": 43.69647,
+      "lng": -79.370578,
+      "distance_km": 6.025,
+      "has_prices": false
+    },
+    {
+      "id": "8f17e1e8",
+      "retailer_slug": "foodbasics",
+      "retailer_name": "Food Basics",
+      "store_name": "Food Basics - Toronto",
+      "address": "",
+      "postal": "M4K 3W5",
+      "lat": 43.6906,
+      "lng": -79.3499,
+      "distance_km": 6.188,
+      "has_prices": false
+    },
+    {
+      "id": "09710dff",
+      "retailer_slug": "foodbasics",
+      "retailer_name": "Food Basics",
+      "store_name": "Food Basics — Toronto (Flipp)",
+      "address": null,
+      "postal": "M6H 2T4",
+      "lat": 43.690633,
+      "lng": -79.349716,
+      "distance_km": 6.2,
+      "has_prices": true
+    },
+    {
+      "id": "05a3ac1a",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Darren's NOFRILLS Toronto Pacific (No Frills)",
+      "address": "372 Pacific Ave",
+      "postal": "M6P 2R1",
+      "lat": 43.664257,
+      "lng": -79.468542,
+      "distance_km": 6.368,
+      "has_prices": false
+    },
+    {
+      "id": "1b53110d",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Daniel and Alexandra's NOFRILLS Toronto (No Frills)",
+      "address": "2187 Bloor St W",
+      "postal": "M6S 1N2",
+      "lat": 43.651201,
+      "lng": -79.47487,
+      "distance_km": 6.543,
+      "has_prices": false
+    },
+    {
+      "id": "0c1358ff",
+      "retailer_slug": "loblaws",
+      "retailer_name": "Loblaws",
+      "store_name": "Loblaws Redway Road (Loblaws)",
+      "address": "11 Redway Rd",
+      "postal": "M4H 1P6",
+      "lat": 43.699097,
+      "lng": -79.359723,
+      "distance_km": 6.617,
+      "has_prices": false
+    },
+    {
+      "id": "0728e88b",
+      "retailer_slug": "valumart",
+      "retailer_name": "Valu-mart",
+      "store_name": "Bayview Valu-mart Toronto (Valu-mart)",
+      "address": "1500 Bayview Ave",
+      "postal": "M4G 3B4",
+      "lat": 43.703549,
+      "lng": -79.37472,
+      "distance_km": 6.692,
+      "has_prices": false
+    },
+    {
+      "id": "4985d4ac",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Rocca's NOFRILLS Toronto (No Frills)",
+      "address": "269 Coxwell Avenue",
+      "postal": "M4L 3B5",
+      "lat": 43.673674,
+      "lng": -79.319184,
+      "distance_km": 6.811,
+      "has_prices": false
+    },
+    {
+      "id": "e5b29f6f",
+      "retailer_slug": "loblaws",
+      "retailer_name": "Loblaws",
+      "store_name": "Loblaws Eglinton Avenue (Loblaws)",
+      "address": "1-101 Eglinton Ave E",
+      "postal": "M4P 1H4",
+      "lat": 43.706579,
+      "lng": -79.39785,
+      "distance_km": 6.854,
+      "has_prices": false
+    },
+    {
+      "id": "bbed50f6",
+      "retailer_slug": "metro",
+      "retailer_name": "Metro",
+      "store_name": "Metro Yonge & Eglinton",
+      "address": "",
+      "postal": "",
+      "lat": 43.70699,
+      "lng": -79.39838,
+      "distance_km": 6.902,
+      "has_prices": false
+    },
+    {
+      "id": "9201dd86",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Jesse's NO FRILLS Toronto Mount Pleasant (No Frills)",
+      "address": "755 Mount Pleasant Road",
+      "postal": "M4S 2N4",
+      "lat": 43.707681,
+      "lng": -79.389418,
+      "distance_km": 6.98,
+      "has_prices": false
+    },
+    {
+      "id": "c0bf3493",
+      "retailer_slug": "metro",
+      "retailer_name": "Metro",
+      "store_name": "Metro Stockyards",
+      "address": "",
+      "postal": "",
+      "lat": 43.67109,
+      "lng": -79.47385,
+      "distance_km": 7.048,
+      "has_prices": false
+    },
+    {
+      "id": "8d1c8da0",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Marcel & Narisha's NOFRILLS Toronto Bayview (No Frills)",
+      "address": "1678 Bayview Avenue",
+      "postal": "M4G 3C3",
+      "lat": 43.70811,
+      "lng": -79.37638,
+      "distance_km": 7.159,
+      "has_prices": false
+    },
+    {
+      "id": "fb62bebf",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Gino's NOFRILLS Toronto (No Frills)",
+      "address": "1951 Eglinton Ave W",
+      "postal": "M6E 2J7",
+      "lat": 43.694829,
+      "lng": -79.45307,
+      "distance_km": 7.299,
+      "has_prices": false
+    },
+    {
+      "id": "ba18f39e",
+      "retailer_slug": "metro",
+      "retailer_name": "Metro",
+      "store_name": "Metro Bayview & Eglinton",
+      "address": "",
+      "postal": "",
+      "lat": 43.71077,
+      "lng": -79.37841,
+      "distance_km": 7.42,
+      "has_prices": false
+    },
+    {
+      "id": "7af47c39",
+      "retailer_slug": "longos",
+      "retailer_name": "Longo's",
+      "store_name": "Longo's Leaside",
+      "address": "93 Laird Drive",
+      "postal": "M4G 3T7",
+      "lat": 43.707137,
+      "lng": -79.359609,
+      "distance_km": 7.442,
+      "has_prices": false
+    },
+    {
+      "id": "7c95cc29",
+      "retailer_slug": "foodbasics",
+      "retailer_name": "Food Basics",
+      "store_name": "Food Basics Toronto",
+      "address": "",
+      "postal": "M4H 1C3",
+      "lat": 43.706,
+      "lng": -79.3466,
+      "distance_km": 7.781,
+      "has_prices": false
+    },
+    {
+      "id": "8dcdc1d9",
+      "retailer_slug": "valumart",
+      "retailer_name": "Valu-mart",
+      "store_name": "Valu-mart Toronto Woodbine (Valu-mart)",
+      "address": "985 Woodbine Ave",
+      "postal": "M4C 4B8",
+      "lat": 43.686269,
+      "lng": -79.31249,
+      "distance_km": 8.003,
+      "has_prices": false
+    },
+    {
+      "id": "3f9e16dc",
+      "retailer_slug": "yourindependentgrocer",
+      "retailer_name": "Your Independent Grocer",
+      "store_name": "Rob & Darlene’s Your Independent Grocer Etobicoke (Your Independent Grocer)",
+      "address": "2399 Lake Shore Blvd W",
+      "postal": "M8V 1C5",
+      "lat": 43.61463,
+      "lng": -79.488443,
+      "distance_km": 8.318,
+      "has_prices": true
+    },
+    {
+      "id": "7be52b06",
+      "retailer_slug": "loblaws",
+      "retailer_name": "Loblaws",
+      "store_name": "Loblaws Etobicoke Dundas W (Loblaws)",
+      "address": "3671 Dundas St W",
+      "postal": "M6S 2T3",
+      "lat": 43.665449,
+      "lng": -79.495785,
+      "distance_km": 8.498,
+      "has_prices": false
+    },
+    {
+      "id": "f9f629aa",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Sam & Nancy's NOFRILLS Toronto (No Frills)",
+      "address": "25 Photography Dr",
+      "postal": "M6M 0A1",
+      "lat": 43.686662,
+      "lng": -79.483922,
+      "distance_km": 8.589,
+      "has_prices": false
+    },
+    {
+      "id": "9efd9762",
+      "retailer_slug": "metro",
+      "retailer_name": "Metro",
+      "store_name": "Metro Bathurst & Lawrence",
+      "address": "",
+      "postal": "",
+      "lat": 43.71944,
+      "lng": -79.43003,
+      "distance_km": 8.77,
+      "has_prices": false
+    },
+    {
+      "id": "1ff9e13b",
+      "retailer_slug": "foodbasics",
+      "retailer_name": "Food Basics",
+      "store_name": "Food Basics - Toronto",
+      "address": "",
+      "postal": "M6N 4C4",
+      "lat": 43.677,
+      "lng": -79.4956,
+      "distance_km": 8.914,
+      "has_prices": false
+    },
+    {
+      "id": "cc3acec3",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "No Frills (PC Express)",
+      "address": null,
+      "postal": "M5V 2T6",
+      "lat": 43.626533,
+      "lng": -79.50328,
+      "distance_km": 9.031,
+      "has_prices": false
+    },
+    {
+      "id": "f02aae04",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Cosimo's NOFRILLS Etobicoke (No Frills)",
+      "address": "748 Queensway",
+      "postal": "M8Z 1M9",
+      "lat": 43.62654,
+      "lng": -79.503341,
+      "distance_km": 9.036,
+      "has_prices": false
+    },
+    {
+      "id": "bff04a59",
+      "retailer_slug": "fortinos",
+      "retailer_name": "Fortinos",
+      "store_name": "Fortinos North York Lawrence (Fortinos)",
+      "address": "700 Lawrence Ave W",
+      "postal": "M6A 3B4",
+      "lat": 43.716656,
+      "lng": -79.447257,
+      "distance_km": 9.046,
+      "has_prices": false
+    },
+    {
+      "id": "12b9bd34",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "Jeff's NOFRILLS Etobicoke (No Frills)",
+      "address": "220 Royal York Rd",
+      "postal": "M8V 2V7",
+      "lat": 43.612232,
+      "lng": -79.497894,
+      "distance_km": 9.121,
+      "has_prices": false
+    },
+    {
+      "id": "a62b9060",
+      "retailer_slug": "metro",
+      "retailer_name": "Metro",
+      "store_name": "Metro Yonge & Lawrence",
+      "address": "",
+      "postal": "",
+      "lat": 43.72691,
+      "lng": -79.4027,
+      "distance_km": 9.135,
+      "has_prices": false
+    },
+    {
+      "id": "839fd82d",
+      "retailer_slug": "yourindependentgrocer",
+      "retailer_name": "Your Independent Grocer",
+      "store_name": "Sandy's Your Independent Grocer Toronto (Your Independent Grocer)",
+      "address": "2266 Queen St E",
+      "postal": "M4E 1G4",
+      "lat": 43.673271,
+      "lng": -79.285854,
+      "distance_km": 9.25,
+      "has_prices": false
+    },
+    {
+      "id": "49c783f6",
+      "retailer_slug": "nofrills",
+      "retailer_name": "No Frills",
+      "store_name": "AJ & Ashley's NOFRILLS Toronto (No Frills)",
+      "address": "1811 Avenue Rd",
+      "postal": "M5M 3Z3",
+      "lat": 43.730728,
+      "lng": -79.418561,
+      "distance_km": 9.735,
+      "has_prices": false
+    },
+    {
+      "id": "e0021efa",
+      "retailer_slug": "realcanadiansuperstore",
+      "retailer_name": "Real Canadian Superstore",
+      "store_name": "Real Canadian Superstore Don Mills Road (Real Canadian Superstore)",
+      "address": "825 Don Mills Rd",
+      "postal": "M3C 1V4",
+      "lat": 43.722704,
+      "lng": -79.337508,
+      "distance_km": 9.762,
+      "has_prices": true
+    },
+    {
+      "id": "2095f240",
+      "retailer_slug": "metro",
+      "retailer_name": "Metro",
+      "store_name": "Metro Keele & Lawrence",
+      "address": "",
+      "postal": "",
+      "lat": 43.70868,
+      "lng": -79.47794,
+      "distance_km": 9.783,
+      "has_prices": false
+    },
+    {
+      "id": "257bed70",
+      "retailer_slug": "loblaws",
+      "retailer_name": "Loblaws",
+      "store_name": "Loblaws Musgrave Street (Loblaws)",
+      "address": "50 Musgrave St",
+      "postal": "M4E 3W2",
+      "lat": 43.688502,
+      "lng": -79.288239,
+      "distance_km": 9.786,
+      "has_prices": false
+    },
+    {
+      "id": "78c4cbe2",
+      "retailer_slug": "metro",
+      "retailer_name": "Metro",
+      "store_name": "Metro Danforth",
+      "address": "",
+      "postal": "",
+      "lat": 43.69071,
+      "lng": -79.28981,
+      "distance_km": 9.801,
+      "has_prices": false
+    }
+  ],
+  "products": [
+    {
+      "id": "bacon",
+      "display_name": "Bacon (375g)",
+      "category": "meat",
+      "spec": "375g",
+      "emoji": "🥓",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "375â€“500g bacon pack",
+      "price_bounds": [
+        4.0,
+        10.0
+      ]
+    },
+    {
+      "id": "chicken-breast",
+      "display_name": "Chicken Breast (per kg)",
+      "category": "meat",
+      "spec": "1kg",
+      "emoji": "🍗",
+      "unit_for_comparison": "kg",
+      "statcan_aligned": true,
+      "statcan_note": "1 kg boneless skinless chicken breast",
+      "price_bounds": [
+        8.0,
+        14.0
+      ]
+    },
+    {
+      "id": "ground-beef",
+      "display_name": "Ground Beef (per kg)",
+      "category": "meat",
+      "spec": "1kg",
+      "emoji": "🥩",
+      "unit_for_comparison": "kg",
+      "statcan_aligned": true,
+      "statcan_note": "1 kg lean or medium ground beef",
+      "price_bounds": [
+        4.0,
+        15.0
+      ]
+    },
+    {
+      "id": "butter-454g",
+      "display_name": "Butter (454g)",
+      "category": "dairy-eggs",
+      "spec": "454g",
+      "emoji": "🧈",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "454g (1 lb) salted or unsalted butter",
+      "price_bounds": [
+        3.0,
+        8.0
+      ]
+    },
+    {
+      "id": "cheddar-cheese-400g",
+      "display_name": "Cheddar Cheese (400g)",
+      "category": "dairy-eggs",
+      "spec": "400g",
+      "emoji": "🧀",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "400g block cheddar cheese",
+      "price_bounds": [
+        4.0,
+        8.0
+      ]
+    },
+    {
+      "id": "large-eggs-dozen",
+      "display_name": "Large Eggs (1 dozen)",
+      "category": "dairy-eggs",
+      "spec": "12",
+      "emoji": "🥚",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "1 dozen large eggs",
+      "price_bounds": [
+        3.0,
+        9.0
+      ]
+    },
+    {
+      "id": "milk-2-percent-4l",
+      "display_name": "Milk 2% (4L)",
+      "category": "dairy-eggs",
+      "spec": "4L",
+      "emoji": "🥛",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "4L 2% milk",
+      "price_bounds": [
+        3.0,
+        8.0
+      ]
+    },
+    {
+      "id": "yogurt",
+      "display_name": "Yogurt (650gâ€“750g)",
+      "category": "dairy-eggs",
+      "spec": "650g",
+      "emoji": "🫙",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "650gâ€“750g tub yogurt",
+      "price_bounds": [
+        3.5,
+        8.0
+      ]
+    },
+    {
+      "id": "white-bread",
+      "display_name": "White Bread (675g loaf)",
+      "category": "bakery",
+      "spec": "675g",
+      "emoji": "🍞",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "675g loaf white bread",
+      "price_bounds": [
+        1.5,
+        5.5
+      ]
+    },
+    {
+      "id": "whole-wheat-bread",
+      "display_name": "Whole Wheat Bread (675g loaf)",
+      "category": "bakery",
+      "spec": "675g",
+      "emoji": "🍞",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "675g loaf whole wheat bread",
+      "price_bounds": [
+        2.0,
+        6.0
+      ]
+    },
+    {
+      "id": "all-purpose-flour",
+      "display_name": "All Purpose Flour (2.5kg)",
+      "category": "pantry",
+      "spec": "2.5kg",
+      "emoji": "🌾",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "2.5 kg bag all-purpose flour",
+      "price_bounds": [
+        3.0,
+        10.0
+      ]
+    },
+    {
+      "id": "canned-tomatoes",
+      "display_name": "Canned Tomatoes (796mL)",
+      "category": "pantry",
+      "spec": "796mL",
+      "emoji": "🥫",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "796 mL can diced or whole tomatoes",
+      "price_bounds": [
+        1.0,
+        4.0
+      ]
+    },
+    {
+      "id": "canned-tuna",
+      "display_name": "Canned Tuna (170g)",
+      "category": "pantry",
+      "spec": "170g",
+      "emoji": "🐟",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "170g can flaked light tuna",
+      "price_bounds": [
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "id": "cereal",
+      "display_name": "Cereal (400â€“500g box)",
+      "category": "pantry",
+      "spec": "450g",
+      "emoji": "🥣",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "400â€“500g box breakfast cereal",
+      "price_bounds": [
+        3.0,
+        8.0
+      ]
+    },
+    {
+      "id": "coffee",
+      "display_name": "Coffee (300g ground)",
+      "category": "pantry",
+      "spec": "300g",
+      "emoji": "☕",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "300g can ground coffee",
+      "price_bounds": [
+        5.0,
+        18.0
+      ]
+    },
+    {
+      "id": "jam",
+      "display_name": "Jam (500mL)",
+      "category": "pantry",
+      "spec": "500mL",
+      "emoji": "🍓",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "500 mL jar strawberry jam",
+      "price_bounds": [
+        3.0,
+        8.0
+      ]
+    },
+    {
+      "id": "oats",
+      "display_name": "Oats (1kg)",
+      "category": "pantry",
+      "spec": "1kg",
+      "emoji": "🥣",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "1 kg large flake or quick oats",
+      "price_bounds": [
+        2.0,
+        7.0
+      ]
+    },
+    {
+      "id": "pasta",
+      "display_name": "Pasta (375â€“500g box)",
+      "category": "pantry",
+      "spec": "500g",
+      "emoji": "🍝",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "375â€“500g box dried pasta",
+      "price_bounds": [
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "id": "peanut-butter",
+      "display_name": "Peanut Butter (750gâ€“1kg)",
+      "category": "pantry",
+      "spec": "750g",
+      "emoji": "🥜",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "750gâ€“1kg jar peanut butter",
+      "price_bounds": [
+        4.0,
+        10.0
+      ]
+    },
+    {
+      "id": "rice",
+      "display_name": "Rice (900gâ€“2kg bag)",
+      "category": "pantry",
+      "spec": "2kg",
+      "emoji": "🍚",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "900gâ€“2kg bag white or brown rice",
+      "price_bounds": [
+        2.0,
+        10.0
+      ]
+    },
+    {
+      "id": "sugar",
+      "display_name": "White Sugar (2kg)",
+      "category": "pantry",
+      "spec": "2kg",
+      "emoji": "🍬",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "2 kg bag white granulated sugar",
+      "price_bounds": [
+        2.0,
+        7.0
+      ]
+    },
+    {
+      "id": "apples",
+      "display_name": "Apples (per kg)",
+      "category": "produce",
+      "spec": "1kg",
+      "emoji": "🍎",
+      "unit_for_comparison": "kg",
+      "statcan_aligned": true,
+      "statcan_note": "1 kg apples",
+      "price_bounds": [
+        1.0,
+        6.0
+      ]
+    },
+    {
+      "id": "carrots",
+      "display_name": "Carrots (2 lb bag)",
+      "category": "produce",
+      "spec": "2lb",
+      "emoji": "🥕",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "907g (2 lb) bag of carrots",
+      "price_bounds": [
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "id": "lettuce",
+      "display_name": "Lettuce (1 head)",
+      "category": "produce",
+      "spec": "1 head",
+      "emoji": "🥬",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "1 head iceberg or romaine lettuce",
+      "price_bounds": [
+        1.5,
+        5.0
+      ]
+    },
+    {
+      "id": "onions",
+      "display_name": "Onions (3 lb bag)",
+      "category": "produce",
+      "spec": "3lb",
+      "emoji": "🧅",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "1.36 kg (3 lb) bag of cooking onions",
+      "price_bounds": [
+        1.0,
+        5.0
+      ]
+    },
+    {
+      "id": "oranges",
+      "display_name": "Oranges (per kg)",
+      "category": "produce",
+      "spec": "1kg",
+      "emoji": "🍊",
+      "unit_for_comparison": "kg",
+      "statcan_aligned": true,
+      "statcan_note": "1 kg oranges",
+      "price_bounds": [
+        0.5,
+        5.0
+      ]
+    },
+    {
+      "id": "potatoes",
+      "display_name": "Potatoes (5 lb bag)",
+      "category": "produce",
+      "spec": "5lb",
+      "emoji": "🥔",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "2.27 kg (5 lb) bag of potatoes",
+      "price_bounds": [
+        2.0,
+        8.0
+      ]
+    },
+    {
+      "id": "tomatoes",
+      "display_name": "Tomatoes (per kg)",
+      "category": "produce",
+      "spec": "1kg",
+      "emoji": "🍅",
+      "unit_for_comparison": "kg",
+      "statcan_aligned": true,
+      "statcan_note": "1 kg field or vine tomatoes",
+      "price_bounds": [
+        1.0,
+        6.0
+      ]
+    },
+    {
+      "id": "orange-juice",
+      "display_name": "Orange Juice (1.75L)",
+      "category": "beverages",
+      "spec": "1.75L",
+      "emoji": "🍊",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "1.75L carton not-from-concentrate orange juice",
+      "price_bounds": [
+        3.0,
+        8.0
+      ]
+    },
+    {
+      "id": "ice-cream",
+      "display_name": "Ice Cream (1.5L)",
+      "category": "frozen",
+      "spec": "1.5L",
+      "emoji": "🍨",
+      "unit_for_comparison": "each",
+      "statcan_aligned": true,
+      "statcan_note": "1.5L tub ice cream",
+      "price_bounds": [
+        3.0,
+        8.0
+      ]
+    }
+  ],
+  "prices": [
+    {
+      "item_id": "bacon",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 5.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "bacon",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 10.0,
+      "unit_price_cad": 1.1013,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-15"
+    },
+    {
+      "item_id": "bacon",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 5.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "bacon",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 7.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "bacon",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 9.49,
+      "unit_price_cad": 2.53,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "bacon",
+      "retailer_slug": "nofrills",
+      "store_id": "969bbd25",
+      "price_cad": 4.0,
+      "unit_price_cad": 1.0667,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-28"
+    },
+    {
+      "item_id": "chicken-breast",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 13.0,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-06"
+    },
+    {
+      "item_id": "chicken-breast",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 13.0,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-21"
+    },
+    {
+      "item_id": "chicken-breast",
+      "retailer_slug": "nofrills",
+      "store_id": "969bbd25",
+      "price_cad": 13.0,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-15"
+    },
+    {
+      "item_id": "chicken-breast",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 11.45,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-08"
+    },
+    {
+      "item_id": "chicken-breast",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 11.01,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "chicken-breast",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 9.7,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-19"
+    },
+    {
+      "item_id": "ground-beef",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 8.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "ground-beef",
+      "retailer_slug": "nofrills",
+      "store_id": "63b1e4a5",
+      "price_cad": 7.79,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "ground-beef",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 8.5,
+      "unit_price_cad": 1.8889,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-21"
+    },
+    {
+      "item_id": "ground-beef",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 9.0,
+      "unit_price_cad": 1.9824,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-02-26"
+    },
+    {
+      "item_id": "ground-beef",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 6.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "ground-beef",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 9.9,
+      "unit_price_cad": 21.99,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-04"
+    },
+    {
+      "item_id": "ground-beef",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 10.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "butter-454g",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 7.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "butter-454g",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 6.99,
+      "unit_price_cad": 1.54,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-04"
+    },
+    {
+      "item_id": "butter-454g",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 7.79,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "butter-454g",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 6.79,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "cheddar-cheese-400g",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 5.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "cheddar-cheese-400g",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 7.0,
+      "unit_price_cad": 3.5,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-21"
+    },
+    {
+      "item_id": "cheddar-cheese-400g",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 6.99,
+      "unit_price_cad": 1.7,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "cheddar-cheese-400g",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 6.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "cheddar-cheese-400g",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 5.48,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "cheddar-cheese-400g",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 7.0,
+      "unit_price_cad": 3.5,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-28"
+    },
+    {
+      "item_id": "large-eggs-dozen",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 7.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "large-eggs-dozen",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 7.59,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "large-eggs-dozen",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 6.19,
+      "unit_price_cad": 0.34,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-04"
+    },
+    {
+      "item_id": "large-eggs-dozen",
+      "retailer_slug": "nofrills",
+      "store_id": "969bbd25",
+      "price_cad": 4.5,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-02-28"
+    },
+    {
+      "item_id": "milk-2-percent-4l",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 5.99,
+      "unit_price_cad": 0.3,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "milk-2-percent-4l",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 6.97,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "milk-2-percent-4l",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 6.29,
+      "unit_price_cad": 1.5725,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-02-26"
+    },
+    {
+      "item_id": "yogurt",
+      "retailer_slug": "nofrills",
+      "store_id": "63b1e4a5",
+      "price_cad": 6.5,
+      "unit_price_cad": 0.8667,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-02-26"
+    },
+    {
+      "item_id": "yogurt",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 5.5,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "yogurt",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 4.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "yogurt",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 6.47,
+      "unit_price_cad": 0.8627,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-06"
+    },
+    {
+      "item_id": "yogurt",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 5.0,
+      "unit_price_cad": 5.0,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-06"
+    },
+    {
+      "item_id": "yogurt",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 5.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "yogurt",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 5.49,
+      "unit_price_cad": 0.73,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "white-bread",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 4.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "white-bread",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 4.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "white-bread",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 4.19,
+      "unit_price_cad": 0.62,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "white-bread",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 3.0,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "whole-wheat-bread",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 3.0,
+      "unit_price_cad": 0.7833,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "whole-wheat-bread",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 4.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-08"
+    },
+    {
+      "item_id": "whole-wheat-bread",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 2.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "whole-wheat-bread",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 4.19,
+      "unit_price_cad": 0.62,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "whole-wheat-bread",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 4.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "all-purpose-flour",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 8.0,
+      "unit_price_cad": 4.5714,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "all-purpose-flour",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 7.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "all-purpose-flour",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 5.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "all-purpose-flour",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 6.0,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "canned-tomatoes",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 1.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "canned-tomatoes",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 1.79,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "canned-tomatoes",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 2.5,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "canned-tomatoes",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 2.99,
+      "unit_price_cad": 0.38,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "canned-tuna",
+      "retailer_slug": "nofrills",
+      "store_id": "969bbd25",
+      "price_cad": 3.0,
+      "unit_price_cad": 1.7647,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-25"
+    },
+    {
+      "item_id": "canned-tuna",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 3.0,
+      "unit_price_cad": 1.4085,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-06"
+    },
+    {
+      "item_id": "canned-tuna",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 3.99,
+      "unit_price_cad": 2.35,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "canned-tuna",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 1.79,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "canned-tuna",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 1.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "canned-tuna",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 3.0,
+      "unit_price_cad": 1.7647,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-28"
+    },
+    {
+      "item_id": "canned-tuna",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 2.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "cereal",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 4.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-21"
+    },
+    {
+      "item_id": "cereal",
+      "retailer_slug": "foodbasics",
+      "store_id": "09710dff",
+      "price_cad": 3.88,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-06"
+    },
+    {
+      "item_id": "cereal",
+      "retailer_slug": "nofrills",
+      "store_id": "969bbd25",
+      "price_cad": 4.0,
+      "unit_price_cad": 0.7619,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "cereal",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 5.0,
+      "unit_price_cad": 1.1111,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-06"
+    },
+    {
+      "item_id": "cereal",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 5.47,
+      "unit_price_cad": 0.9101,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-21"
+    },
+    {
+      "item_id": "cereal",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 5.99,
+      "unit_price_cad": 1.24,
+      "in_flyer": true,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "cereal",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 6.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "coffee",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 11.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-13"
+    },
+    {
+      "item_id": "coffee",
+      "retailer_slug": "foodbasics",
+      "store_id": "09710dff",
+      "price_cad": 9.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "coffee",
+      "retailer_slug": "nofrills",
+      "store_id": "969bbd25",
+      "price_cad": 12.49,
+      "unit_price_cad": 3.6735,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "coffee",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 15.97,
+      "unit_price_cad": 1.7744,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-02-26"
+    },
+    {
+      "item_id": "coffee",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 6.44,
+      "unit_price_cad": 3.7882,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-25"
+    },
+    {
+      "item_id": "coffee",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 12.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "jam",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 7.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "jam",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 5.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "jam",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 6.29,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "oats",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 4.79,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-08"
+    },
+    {
+      "item_id": "oats",
+      "retailer_slug": "foodbasics",
+      "store_id": "09710dff",
+      "price_cad": 3.49,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-02-26"
+    },
+    {
+      "item_id": "oats",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 5.0,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-05"
+    },
+    {
+      "item_id": "oats",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 5.47,
+      "unit_price_cad": 0.9101,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-21"
+    },
+    {
+      "item_id": "pasta",
+      "retailer_slug": "foodbasics",
+      "store_id": "09710dff",
+      "price_cad": 1.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-25"
+    },
+    {
+      "item_id": "pasta",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 2.5,
+      "unit_price_cad": 0.2778,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-06"
+    },
+    {
+      "item_id": "pasta",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 3.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-13"
+    },
+    {
+      "item_id": "pasta",
+      "retailer_slug": "nofrills",
+      "store_id": "969bbd25",
+      "price_cad": 2.5,
+      "unit_price_cad": 0.3676,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "pasta",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 4.98,
+      "unit_price_cad": 1.2146,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-06"
+    },
+    {
+      "item_id": "pasta",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 2.99,
+      "unit_price_cad": 0.73,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "pasta",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 2.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "peanut-butter",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 5.0,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-02-26"
+    },
+    {
+      "item_id": "peanut-butter",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 7.99,
+      "unit_price_cad": 1.07,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "peanut-butter",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 5.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-08"
+    },
+    {
+      "item_id": "peanut-butter",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 7.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "peanut-butter",
+      "retailer_slug": "foodbasics",
+      "store_id": "09710dff",
+      "price_cad": 5.97,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-21"
+    },
+    {
+      "item_id": "rice",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 5.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-08"
+    },
+    {
+      "item_id": "rice",
+      "retailer_slug": "foodbasics",
+      "store_id": "09710dff",
+      "price_cad": 7.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "rice",
+      "retailer_slug": "nofrills",
+      "store_id": "969bbd25",
+      "price_cad": 7.99,
+      "unit_price_cad": 2.2011,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-02-28"
+    },
+    {
+      "item_id": "rice",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 10.0,
+      "unit_price_cad": 2.7548,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-21"
+    },
+    {
+      "item_id": "rice",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 10.0,
+      "unit_price_cad": 2.7548,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-28"
+    },
+    {
+      "item_id": "rice",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 5.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "rice",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 4.49,
+      "unit_price_cad": 1.8,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "sugar",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 2.0,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "sugar",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 4.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "sugar",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 3.38,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "sugar",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 3.49,
+      "unit_price_cad": 0.17,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "apples",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 2.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "apples",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 2.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "apples",
+      "retailer_slug": "nofrills",
+      "store_id": "63b1e4a5",
+      "price_cad": 4.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-02-26"
+    },
+    {
+      "item_id": "apples",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 5.0,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "apples",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 1.49,
+      "unit_price_cad": 1.49,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "apples",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 1.85,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-19"
+    },
+    {
+      "item_id": "carrots",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 3.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "carrots",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 3.29,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "carrots",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 1.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "carrots",
+      "retailer_slug": "nofrills",
+      "store_id": "969bbd25",
+      "price_cad": 2.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-25"
+    },
+    {
+      "item_id": "carrots",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 4.49,
+      "unit_price_cad": 0.33,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "carrots",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 4.0,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-21"
+    },
+    {
+      "item_id": "carrots",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 2.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-28"
+    },
+    {
+      "item_id": "lettuce",
+      "retailer_slug": "foodbasics",
+      "store_id": "09710dff",
+      "price_cad": 3.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "lettuce",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 3.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-25"
+    },
+    {
+      "item_id": "lettuce",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 4.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "lettuce",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 3.99,
+      "unit_price_cad": 3.99,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "lettuce",
+      "retailer_slug": "nofrills",
+      "store_id": "969bbd25",
+      "price_cad": 1.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "lettuce",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 3.5,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-21"
+    },
+    {
+      "item_id": "onions",
+      "retailer_slug": "nofrills",
+      "store_id": "63b1e4a5",
+      "price_cad": 2.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "onions",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 3.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "onions",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 2.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-28"
+    },
+    {
+      "item_id": "onions",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 3.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-25"
+    },
+    {
+      "item_id": "onions",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 1.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "onions",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 4.0,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-21"
+    },
+    {
+      "item_id": "onions",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 3.99,
+      "unit_price_cad": 2.0,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "oranges",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 3.29,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-19"
+    },
+    {
+      "item_id": "oranges",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 3.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-08"
+    },
+    {
+      "item_id": "oranges",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 2.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "oranges",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 1.99,
+      "unit_price_cad": 1.99,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "potatoes",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 3.5,
+      "unit_price_cad": 0.5147,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-28"
+    },
+    {
+      "item_id": "potatoes",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 4.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "potatoes",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 4.79,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "potatoes",
+      "retailer_slug": "foodbasics",
+      "store_id": "09710dff",
+      "price_cad": 3.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-21"
+    },
+    {
+      "item_id": "potatoes",
+      "retailer_slug": "nofrills",
+      "store_id": "63b1e4a5",
+      "price_cad": 3.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-06"
+    },
+    {
+      "item_id": "potatoes",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 4.0,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "potatoes",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 5.99,
+      "unit_price_cad": 0.26,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "tomatoes",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 3.79,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-02"
+    },
+    {
+      "item_id": "tomatoes",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 3.29,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-13"
+    },
+    {
+      "item_id": "tomatoes",
+      "retailer_slug": "nofrills",
+      "store_id": "969bbd25",
+      "price_cad": 2.5,
+      "unit_price_cad": 0.3676,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "tomatoes",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 2.5,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-06"
+    },
+    {
+      "item_id": "tomatoes",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 4.0,
+      "unit_price_cad": 1.4134,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-02-26"
+    },
+    {
+      "item_id": "tomatoes",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 2.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "tomatoes",
+      "retailer_slug": "longos",
+      "store_id": "616bdb29",
+      "price_cad": 4.49,
+      "unit_price_cad": 4.49,
+      "in_flyer": false,
+      "source": "voila_longos",
+      "observed_at": "2026-03-04"
+    },
+    {
+      "item_id": "orange-juice",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 6.49,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "orange-juice",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 5.0,
+      "unit_price_cad": 3.3333,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "orange-juice",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 4.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "metro_online",
+      "observed_at": "2026-03-01"
+    },
+    {
+      "item_id": "orange-juice",
+      "retailer_slug": "foodbasics",
+      "store_id": "09710dff",
+      "price_cad": 3.97,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-21"
+    },
+    {
+      "item_id": "orange-juice",
+      "retailer_slug": "nofrills",
+      "store_id": "969bbd25",
+      "price_cad": 4.0,
+      "unit_price_cad": 2.5974,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-21"
+    },
+    {
+      "item_id": "orange-juice",
+      "retailer_slug": "yourindependentgrocer",
+      "store_id": "3f9e16dc",
+      "price_cad": 4.0,
+      "unit_price_cad": 2.5974,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-12"
+    },
+    {
+      "item_id": "ice-cream",
+      "retailer_slug": "foodbasics",
+      "store_id": "06293472",
+      "price_cad": 5.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "foodbasics_online",
+      "observed_at": "2026-03-08"
+    },
+    {
+      "item_id": "ice-cream",
+      "retailer_slug": "loblaws",
+      "store_id": "0559ac72",
+      "price_cad": 6.99,
+      "unit_price_cad": null,
+      "in_flyer": false,
+      "source": "pcexpress",
+      "observed_at": "2026-03-19"
+    },
+    {
+      "item_id": "ice-cream",
+      "retailer_slug": "metro",
+      "store_id": "7ee2f71b",
+      "price_cad": 5.99,
+      "unit_price_cad": null,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-06"
+    },
+    {
+      "item_id": "ice-cream",
+      "retailer_slug": "realcanadiansuperstore",
+      "store_id": "e0021efa",
+      "price_cad": 5.49,
+      "unit_price_cad": 3.8936,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-03-25"
+    },
+    {
+      "item_id": "ice-cream",
+      "retailer_slug": "nofrills",
+      "store_id": "969bbd25",
+      "price_cad": 5.99,
+      "unit_price_cad": 5.99,
+      "in_flyer": true,
+      "source": "flipp",
+      "observed_at": "2026-02-28"
+    }
+  ],
+  "disclaimers": {
+    "data_caveats": "Frozen snapshot of Canadian grocery prices observed at or before 2026-04-01. The map layer (`display_stores[]`) shows every real geocoded storefront within 10.0 km of the M5V 2T6 postal centroid in downtown Toronto. The price comparison (`stores[]` + `prices[]`) normally resolves to a real storefront per retailer (the nearest geocoded location to the postal centroid). Price provenance is carried on each row via the `source` field: `flipp` = weekly flyer price (banner-wide across Ontario); `metro_online` / `voila_longos` = online catalog price (Ontario-wide); `pcexpress` = shelf price from the PC Express Toronto catalog; so a `flipp` price attached to `Bo's NOFRILLS Toronto Richmond` reflects the Toronto-area flyer, not an in-store scan of that specific storefront. Prices are representative, not minima — we pick the median-adjacent observation per (item, retailer) to avoid loss-leader distortion. Not a live shopping tool.",
+    "retailer_coverage_per_item": {
+      "bacon": 6,
+      "chicken-breast": 6,
+      "ground-beef": 7,
+      "butter-454g": 4,
+      "cheddar-cheese-400g": 6,
+      "large-eggs-dozen": 4,
+      "milk-2-percent-4l": 3,
+      "yogurt": 7,
+      "white-bread": 4,
+      "whole-wheat-bread": 5,
+      "all-purpose-flour": 4,
+      "canned-tomatoes": 4,
+      "canned-tuna": 7,
+      "cereal": 7,
+      "coffee": 6,
+      "jam": 3,
+      "oats": 4,
+      "pasta": 7,
+      "peanut-butter": 5,
+      "rice": 7,
+      "sugar": 4,
+      "apples": 6,
+      "carrots": 7,
+      "lettuce": 6,
+      "onions": 7,
+      "oranges": 4,
+      "potatoes": 7,
+      "tomatoes": 7,
+      "orange-juice": 6,
+      "ice-cream": 5
+    },
+    "total_retailers_in_scope": 7,
+    "total_stores_in_scope": 9,
+    "total_display_stores": 76,
+    "total_price_rows": 165,
+    "items_with_zero_coverage": [],
+    "items_hitting_price_bounds": [
+      {
+        "id": "bacon",
+        "clamped": 78
+      },
+      {
+        "id": "chicken-breast",
+        "clamped": 212
+      },
+      {
+        "id": "ground-beef",
+        "clamped": 10
+      },
+      {
+        "id": "butter-454g",
+        "clamped": 17
+      },
+      {
+        "id": "cheddar-cheese-400g",
+        "clamped": 152
+      },
+      {
+        "id": "large-eggs-dozen",
+        "clamped": 1
+      },
+      {
+        "id": "milk-2-percent-4l",
+        "clamped": 4
+      },
+      {
+        "id": "yogurt",
+        "clamped": 171
+      },
+      {
+        "id": "white-bread",
+        "clamped": 16
+      },
+      {
+        "id": "whole-wheat-bread",
+        "clamped": 8
+      },
+      {
+        "id": "all-purpose-flour",
+        "clamped": 2
+      },
+      {
+        "id": "canned-tomatoes",
+        "clamped": 17
+      },
+      {
+        "id": "canned-tuna",
+        "clamped": 1
+      },
+      {
+        "id": "cereal",
+        "clamped": 88
+      },
+      {
+        "id": "coffee",
+        "clamped": 131
+      },
+      {
+        "id": "jam",
+        "clamped": 18
+      },
+      {
+        "id": "oats",
+        "clamped": 54
+      },
+      {
+        "id": "pasta",
+        "clamped": 69
+      },
+      {
+        "id": "peanut-butter",
+        "clamped": 24
+      },
+      {
+        "id": "rice",
+        "clamped": 141
+      },
+      {
+        "id": "sugar",
+        "clamped": 1
+      },
+      {
+        "id": "apples",
+        "clamped": 62
+      },
+      {
+        "id": "carrots",
+        "clamped": 37
+      },
+      {
+        "id": "lettuce",
+        "clamped": 26
+      },
+      {
+        "id": "onions",
+        "clamped": 85
+      },
+      {
+        "id": "oranges",
+        "clamped": 81
+      },
+      {
+        "id": "potatoes",
+        "clamped": 72
+      },
+      {
+        "id": "tomatoes",
+        "clamped": 26
+      },
+      {
+        "id": "orange-juice",
+        "clamped": 27
+      },
+      {
+        "id": "ice-cream",
+        "clamped": 66
+      }
+    ]
+  }
+}
