@@ -12,7 +12,11 @@ import { priceCart, snapshot, type CartEntry } from '@/lib/snapshot';
 function parseCart(raw: string | null): CartEntry[] {
   if (!raw) return [];
   try {
-    const data = JSON.parse(decodeURIComponent(raw));
+    // URLSearchParams.get() already decodes; no need to decodeURIComponent
+    // again (would double-decode and throw on literal % characters in item
+    // names like "Milk 2%"). JSON.parse can still throw on malformed input,
+    // which the catch below handles.
+    const data = JSON.parse(raw);
     if (!Array.isArray(data)) return [];
     return data.map((d: { name?: string; quantity?: number; unit?: string }) => ({
       name: String(d.name ?? ''),
