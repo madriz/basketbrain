@@ -106,7 +106,10 @@ export default function ResultsView() {
 
       <section className="space-y-2">
         <h2 className="text-lg font-bold text-gray-900">Per-item comparison</h2>
-        <PriceComparisonTable matches={pricing.matches} />
+        <PriceComparisonTable
+          matches={pricing.matches}
+          perRetailerTotal={pricing.per_retailer_total}
+        />
       </section>
 
       <Link
